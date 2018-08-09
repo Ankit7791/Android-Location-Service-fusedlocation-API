@@ -3,9 +3,9 @@ The fused location provider is a location API in Google Play services that intel
 
 Place this in Manifest XML
 
-<service
+&lt;service
             android:name=".MyLocationService"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait" /&gt;
 
 Create a java class MyLocationService
 
